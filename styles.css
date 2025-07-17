@@ -153,6 +153,7 @@ div p{
     color:#F3F9D2;
     text-align: center;
     white-space: nowrap;
+    margin: 0;
 }
 
 .certificado img {
