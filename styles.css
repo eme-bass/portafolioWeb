@@ -152,7 +152,7 @@ div p{
 .certificado  h3{
     color:#F3F9D2;
     text-align: center;
-    width: 200%;
+    white-space: nowrap;
 }
 
 .certificado img {
