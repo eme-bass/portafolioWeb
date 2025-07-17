@@ -80,10 +80,14 @@ nav{
     gap: 40px; /* opcional, espacio entre las sections */
     flex-wrap: wrap;
     justify-content: center;
+    margin: 0;
+    padding: 0;
 }
 
 section {
   flex: 1; /* para que cada sección tome espacio igual */
+  margin: 0;
+  padding: 0;
 }
 
 section h2{
