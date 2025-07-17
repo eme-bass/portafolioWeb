@@ -77,7 +77,7 @@ nav{
 
 .contenedor-article {
     display: flex;
-    gap: 60px; /* opcional, espacio entre las sections */
+    gap: 40px; /* opcional, espacio entre las sections */
     flex-wrap: wrap;
     justify-content: center;
 }
